@@ -1,4 +1,4 @@
-# Click Through Rate (CTR) prediction
+# Click Through Rate (CTR) Prediction
 
 This project was completed for my MIDS W261 Machine Learning at Scale class in Fall 2019.
 
